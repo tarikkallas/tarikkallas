@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 🔭 I’m currently working on getting my last decade of Excel models into Python.
-🌱 I’m currently learning machine learning.
 
 # 🦖 🔜 🤖
 
