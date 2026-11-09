@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 I’m currently working on getting my last decade of Excel models into Python.
+
+# 🦖 🔜 🤖
+
 <!--
 **tarikkallas/tarikkallas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
